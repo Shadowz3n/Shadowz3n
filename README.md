@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-007bb5?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin])][linkedin] 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=[twitter])][twitter] 
 
-- I'm Henrique Bissoli, 30 years old, brazilian, full-stack dev and pentester.<br />
+- I'm Henrique Bissoli, 31 years old, brazilian, full-stack dev and pentester.<br />
 <br />
 
 ### Languages and skills
