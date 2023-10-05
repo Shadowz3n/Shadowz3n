@@ -1,8 +1,6 @@
 ### About me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white&link=[email])][email] 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=[facebook])][facebook] 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c32aa3?style=flat-square&logo=Instagram&logoColor=white&link=[instagram])][instagram] 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-007bb5?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin])][linkedin] 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=[twitter])][twitter] 
 
