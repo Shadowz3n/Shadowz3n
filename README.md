@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white&link=[email])][email] 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-007bb5?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin])][linkedin] 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=[twitter])][twitter] 
 
 - I'm Henrique Bissoli, 32 years old, brazilian, full-stack dev and pentester.<br />
 <br />
